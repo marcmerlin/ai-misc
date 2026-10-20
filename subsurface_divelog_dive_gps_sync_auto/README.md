@@ -2,7 +2,7 @@ Copied from https://marc.merlins.org/perso/diving/post_2026-10-18_Subsurface-GPS
 
 You can check out my 49572 pictures from 994 dives and 77 blog entries from trips over 23 years as of this writing, here: https://marc.merlins.org/perso/diving/
 
-Subsurface is the best dive log software as it works on everything and was co-authored Linus Torvalds and Dirk Hohndel, both I've had the pleasure to dive with: https://subsurface-divelog.org/ 
+Subsurface is the best dive log software as it works on everything and was originally co-authored Linus Torvalds and Dirk Hohndel, both I've had the pleasure to dive with: https://subsurface-divelog.org/ 
 <img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/77018252-94af-4d1e-9607-2ba1ead6322f" />
 
 On top of being open source and working on linux, both important to me, a huge plus is it works with a huge amount of dive computers and you keep your logs in the same software across all your computers and phones, synced in the cloud, and for free. If the dives have GPS locations, they are shown on a world map with a little red flag, and getting a world map full of little red flags, makes me happy :)
@@ -74,3 +74,5 @@ OUTPUT_FILE: updated_divelog.ssrf
 =================================================
 sauron:~/gps/data/diving$ 
 ```
+
+Please inspect the updated_divelog.ssrf file carefully in subsurface, make sure everything looks good, do keep your last good known copy of the previous ssrf file, and make very sure you're happy with the new version before you upload this in the cloud since the cloud has no rollback (but you'll still have the previous good known copy you can manually load and resync to the cloud if you wish to roll back yourself)
