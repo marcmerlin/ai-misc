@@ -1,6 +1,6 @@
 Copied from https://marc.merlins.org/perso/diving/post_2026-10-18_Subsurface-GPS-Locations-Adding-From-GPX-Tracks-and-Waypoints.html
 
-And you can check out my 49572 pictures and blog entries from 77 trips and 994 dives over 23 years as of this writing, you can find them here: https://marc.merlins.org/perso/diving/
+And you can check out my 49572 pictures from 994 dives and 77 blog entries from trips over 23 years as of this writing, you can find them here: https://marc.merlins.org/perso/diving/
 
 After my last dive trip in French Polynesia, I was 6 dives short of 1000, but I had hundreds of dives in subsurface that didn't have GPS locations. My Dive computers (all 3 of them) do not log GPS data, and ever since the old subsurface android client that would log GPS locations and sync them against dives in the cloud after the fact, went end of life, none of my dives had GPS locations anymore.
 And yet, I had 40+ GPS GPX files from my garmin that is always running on my dive trips, so I knew just like I used to geotag my pictures with GPX files and date/time matching from the pictures EXIF data, the same was clearly possible with Subsurface, but when I asked, no one had done it (and to be fair, it's tedious code to write by hand).
